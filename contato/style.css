@@ -1,0 +1,89 @@
+h1{
+    font-size: 50px;
+}
+header{
+    background-color:rgb(255, 255, 0);
+    width: 600px;
+    height: 120px;
+    border-radius: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+h2{
+    background-color: lightblue;
+    width: 150px;
+    height: 60px;
+    text-align: center;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 40px;
+}
+h3{
+    background-color:whitesmoke;
+    width: 150px;
+    height: 45px;
+    text-align: center;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 40px;
+}
+h4{background-color: lightgreen;
+    width: 150px;
+    height: 45px;
+    text-align: center;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 40px;
+}
+h5{
+    background-color:palevioletred;
+    width: 150px;
+    height: 45px;
+    text-align: center;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 40px;
+}
+h6{
+    background-color:yellow;
+    width: 180px;
+    height: 40px;
+    text-align: center;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 40px;
+}
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0,0,0,0.4)), url(https://www.decorfacil.com/wp-content/uploads/2016/08/Imagem-62-4-1200x675.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+section{
+    display: inline-block;
+    margin-left: 51%;
+    margin-right: 6%;
+    margin-top: 3%;
+
+}
+div{
+    display: inline-block;
+    margin: 80px;
+    width: 15%;
+    height: 30%;
+    margin-top: 6%;
+
+
+}
+
+footer{
+    background-color:rgb(255, 255, 0);
+
+    width: 70%;
+    height: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 6%;
+    border-radius: 30px;
+}
