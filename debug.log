@@ -1,3 +1,6 @@
 [1110/161043.904:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
 [1110/203321.620:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
 [1111/165735.932:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1119/224230.684:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1119/225230.819:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1119/225230.822:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Ana\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\dbb23d4c-3b8f-4dbb-a28b-836122cf07dc: O sistema não pode encontrar o caminho especificado. (0x3)
